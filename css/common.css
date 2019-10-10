@@ -1,0 +1,94 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+#top {
+    margin: 0 auto;
+    width: 1003px;
+    height: 78px;
+    line-height: 78px;
+    background-image: url("../img/head_bg.jpg");
+    overflow: hidden;
+}
+
+.img1 {
+    vertical-align: top;
+}
+
+.img2 {
+    height: 78px;
+    width: 90px;
+    /*text-align: center;*/
+    color: #0d548a;
+    font-size: 14px;
+    float: left;
+    overflow: hidden;
+    vertical-align: middle;
+}
+
+.navtop2 {
+    overflow: hidden;
+    margin: 0 auto;
+    height: 78px;
+    float: right;
+    line-height: 78px;
+    text-align: center;
+    background-image: url("../img/menu_bg.jpg");
+
+}
+
+
+.right {
+    margin: 0 auto;
+    width: 742px;
+    height: 411px;
+    float: right;
+    border-top: 1px solid #c4c4c4;
+    border-left: 1px solid #c4c4c4;
+    border-bottom: 1px solid #c4c4c4;
+    box-sizing: border-box;
+
+    overflow: hidden;
+}
+
+.left {
+    border-top: 1px solid #c4c4c4;
+    border-bottom: 1px solid #c4c4c4;
+    float: left;
+    width: 261px;
+    height: 409px;
+    overflow: hidden;
+}
+
+.center {
+    margin: 0 auto;
+    width: 1003px;
+    height: 411px;
+}
+
+
+.tit {
+    height: 54px;
+    /*去掉文字前面的小黑点*/
+    list-style-type: none;
+}
+
+a {
+    text-decoration: none;
+
+}
+
+.navul {
+    line-height: 54px;
+}
+
+#footer {
+    margin: 0 auto;
+    text-align: center;
+    font-size: 12px;
+    width: 1003px;
+    height: 78px;
+    line-height: 24px;
+    box-sizing: border-box;
+}

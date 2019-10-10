@@ -1,0 +1,56 @@
+
+p {
+    margin: 0 20px;
+    text-indent: 2em;
+    line-height: 24px;
+    font-size: 14px;
+    margin-bottom: 24px;
+}
+
+#big {
+
+    margin: 0 auto;
+    width: 1003px;
+    overflow: hidden;
+    border-bottom: 1px solid #c4c4c4;
+}
+
+#cenetr {
+    margin: 0 auto;
+    float: left;
+    height: 464px;
+    width: 678px;
+    overflow: hidden;
+}
+
+#cenetr2 {
+    margin: 0 auto;
+    float: right;
+    width: 325px;
+    height: 464px;
+    overflow: hidden;
+}
+
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+
+#footer {
+    margin: 0 auto;
+    text-align: center;
+    font-size: 12px;
+    width: 1003px;
+    height: 78px;
+    line-height: 24px;
+    box-sizing: border-box;
+    overflow: hidden;
+
+}
+
+/*img {*/
+/*    vertical-align: middle;*/
+/*    overflow: hidden;*/
+/*}*/

@@ -1,0 +1,25 @@
+.wenzi {
+    margin: 0 auto;
+    line-height: 30px;
+    font-size: 14px;
+    margin-left: 63px;
+
+}
+
+.left .navul li:hover {
+    background-image: url("../img/sec_menu_bg_a.jpg");
+    color: #fffff6
+}
+
+.left .navul a:hover {
+    color: #fffff6;
+
+}
+a{
+    display: block;
+}li {
+     padding-left: 78px;
+     height: 54px;
+     /*去掉文字前面的小黑点*/
+     list-style-type: none;
+ }
